@@ -14,8 +14,8 @@
 
 #### 🎥 **Motion Design**
 
-![](http://img.shields.io/badge/-After%20Effects-white?logo=adobeaftereffects&style=flat&logoColor=white&color=9999FF)
-![](http://img.shields.io/badge/-Premiere%20Pro-white?logo=adobepremierepro&style=flat&logoColor=white&color=9999FF)
+![](http://img.shields.io/badge/-Adobe%20After%20Effects-white?logo=adobeaftereffects&style=flat&logoColor=white&color=9999FF)
+![](http://img.shields.io/badge/-Adobe%20Premiere%20Pro-white?logo=adobepremierepro&style=flat&logoColor=white&color=9999FF)
 ![](http://img.shields.io/badge/-Photoshop-white?logo=adobephotoshop&style=flat&logoColor=black&color=31A8FF)
 ![](http://img.shields.io/badge/-Blender-white?logo=blender&style=flat&logoColor=white&color=E87D0D)
 ![](http://img.shields.io/badge/-Cinema%204D-white?logo=cinema4d&style=flat&logoColor=white&color=011A6A)
