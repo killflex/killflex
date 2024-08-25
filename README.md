@@ -1,20 +1,23 @@
-<!-- ## Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="19px">, I'm [Ferry Hasan](https://killflex.github.io/)!
-<br/>
-<p align="left">
-  <a href="https://github.com/killflex"><img src="https://github-readme-stats.vercel.app/api?username=killflex&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Ferry Hasan's Github Stats" /></a>
-  <a href="https://github.com/killflex"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killflex&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Ferry Hasan's Top Languages" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
+[![](https://scontent.fsub21-1.fna.fbcdn.net/v/t39.30808-6/231707532_855677558720937_3883501286374297756_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeGsp60PmbNNWHd26zRqW9vfKlLXXQHo4j0qUtddAejiPQ9-5DU5ZaRQ3sp66-JpZjoskc2oglqw_MNwBxicumpe&_nc_ohc=1wWNlYAxe08Q7kNvgFbJ1X7&_nc_ht=scontent.fsub21-1.fna&oh=00_AYDi_Wf8azBoh4GFQ49q-FLr24zUYlibSm42ZcHEQ5J-3A&oe=66D178D5)](https://linktr.ee/killflex)
 
-<p align="center">
-  <a href="https://twitter.com/fleksipi">
-    <img src="https://img.shields.io/twitter/follow/fleksipi?style=for-the-badge&label=%40fleksipi&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
-  </a>
-  <a href="https://www.linkedin.com/in/ferry-hasan-4988b8242/">
-    <img src="https://img.shields.io/badge/-ferry%20hasan-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
-  </a>
-  <a href="mailto:ferryhasan10@gmail.com">
-    <img src="https://img.shields.io/badge/ferryhasan10@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
-  </a>
-</p>
+#### 👨‍💻 **Languages & Frameworks**
+
+![](http://img.shields.io/badge/-HTML-white?logo=html5&style=flat&logoColor=white&color=E34F26)
+![](http://img.shields.io/badge/-CSS-white?logo=css3&style=flat&logoColor=white&color=1572B6)
+![](http://img.shields.io/badge/-JavaScript-white?logo=javascript&style=flat&logoColor=black&color=F7DF1E)
+![](http://img.shields.io/badge/-PHP-white?logo=php&style=flat&logoColor=white&color=777BB4)
+![](http://img.shields.io/badge/-Python-white?logo=python&style=flat&logoColor=white&color=3776AB)
+![](http://img.shields.io/badge/-MySQL-white?logo=mysql&style=flat&logoColor=black&color=4479A1)
+![](http://img.shields.io/badge/-React-white?logo=react&style=flat&logoColor=black&color=61DAFB)
+![](http://img.shields.io/badge/-Bootstrap-white?logo=bootstrap&style=flat&logoColor=white&color=7952B3)
+![](http://img.shields.io/badge/-Tailwind%20CSS-white?logo=tailwindcss&style=flat&logoColor=white&color=06B6D4)
+
+#### 🎥 **Motion Design**
+
+![](http://img.shields.io/badge/-After%20Effects-white?logo=adobeaftereffects&style=flat&logoColor=white&color=9999FF)
+![](http://img.shields.io/badge/-Premiere%20Pro-white?logo=adobepremierepro&style=flat&logoColor=white&color=9999FF)
+![](http://img.shields.io/badge/-Photoshop-white?logo=adobephotoshop&style=flat&logoColor=black&color=31A8FF)
+![](http://img.shields.io/badge/-Blender-white?logo=blender&style=flat&logoColor=white&color=E87D0D)
+![](http://img.shields.io/badge/-Cinema%204D-white?logo=cinema4d&style=flat&logoColor=white&color=011A6A)
+![](http://img.shields.io/badge/-Octane-white?logo=octanerender&style=flat&logoColor=black&color=000000)
+![](http://img.shields.io/badge/-Redshift-white?logo=coronarenderer&style=flat&logoColor=black&color=E1140A)
