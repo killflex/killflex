@@ -8,7 +8,7 @@
 ![](http://img.shields.io/badge/-PHP-white?logo=php&style=flat&logoColor=white&color=777BB4)
 ![](http://img.shields.io/badge/-Python-white?logo=python&style=flat&logoColor=white&color=3776AB)
 ![](http://img.shields.io/badge/-MySQL-white?logo=mysql&style=flat&logoColor=black&color=4479A1)
-![](http://img.shields.io/badge/-React-white?logo=react&style=flat&logoColor=black&color=61DAFB)
+![](http://img.shields.io/badge/-React%20JS-white?logo=react&style=flat&logoColor=black&color=61DAFB)
 ![](http://img.shields.io/badge/-Bootstrap-white?logo=bootstrap&style=flat&logoColor=white&color=7952B3)
 ![](http://img.shields.io/badge/-Tailwind%20CSS-white?logo=tailwindcss&style=flat&logoColor=white&color=06B6D4)
 
