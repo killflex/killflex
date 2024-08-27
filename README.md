@@ -1,6 +1,6 @@
 [![](https://scontent.fsub21-1.fna.fbcdn.net/v/t39.30808-6/231707532_855677558720937_3883501286374297756_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeGsp60PmbNNWHd26zRqW9vfKlLXXQHo4j0qUtddAejiPQ9-5DU5ZaRQ3sp66-JpZjoskc2oglqw_MNwBxicumpe&_nc_ohc=1wWNlYAxe08Q7kNvgFbJ1X7&_nc_ht=scontent.fsub21-1.fna&oh=00_AYDi_Wf8azBoh4GFQ49q-FLr24zUYlibSm42ZcHEQ5J-3A&oe=66D178D5)](https://linktr.ee/killflex)
 
-#### 👨‍💻 **Languages & Frameworks**
+#### 🛠️ **Tools**
 
 ![](http://img.shields.io/badge/-HTML-white?logo=html5&style=flat&logoColor=white&color=E34F26)
 ![](http://img.shields.io/badge/-CSS-white?logo=css3&style=flat&logoColor=white&color=1572B6)
@@ -11,8 +11,6 @@
 ![](http://img.shields.io/badge/-React%20JS-white?logo=react&style=flat&logoColor=black&color=61DAFB)
 ![](http://img.shields.io/badge/-Bootstrap-white?logo=bootstrap&style=flat&logoColor=white&color=7952B3)
 ![](http://img.shields.io/badge/-Tailwind%20CSS-white?logo=tailwindcss&style=flat&logoColor=white&color=06B6D4)
-
-#### 🎥 **Motion Design**
 
 ![](http://img.shields.io/badge/-Adobe%20After%20Effects-white?logo=adobeaftereffects&style=flat&logoColor=white&color=9999FF)
 ![](http://img.shields.io/badge/-Adobe%20Premiere%20Pro-white?logo=adobepremierepro&style=flat&logoColor=white&color=9999FF)
