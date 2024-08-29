@@ -1,4 +1,6 @@
-[![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1zNHNmdHRqZ2k2cTg4aXhtMHU0b3NhaGNlNDJqdTMwZHQ3dXE1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k18ovZoNopHivapXcz/giphy.gif)](https://linktr.ee/killflex)
+[![](killflex.gif)](https://linktr.ee/killflex)
+
+- 🚀 Currently learning `NextJS` and `Laravel`.
 
 #### 🛠️ **Tools**
 
@@ -11,10 +13,12 @@
 ![](http://img.shields.io/badge/-React%20JS-white?logo=react&style=flat&logoColor=black&color=61DAFB)
 ![](http://img.shields.io/badge/-Bootstrap-white?logo=bootstrap&style=flat&logoColor=white&color=7952B3)
 ![](http://img.shields.io/badge/-Tailwind%20CSS-white?logo=tailwindcss&style=flat&logoColor=white&color=06B6D4)
+![](http://img.shields.io/badge/-Linux-white?logo=linux&style=flat&logoColor=white&color=FCC624)
 
 ![](http://img.shields.io/badge/-After%20Effects-white?logo=adobeaftereffects&style=flat&logoColor=white&color=9999FF)
 ![](http://img.shields.io/badge/-Premiere%20Pro-white?logo=adobepremierepro&style=flat&logoColor=white&color=9999FF)
 ![](http://img.shields.io/badge/-Photoshop-white?logo=adobephotoshop&style=flat&logoColor=black&color=31A8FF)
+![](http://img.shields.io/badge/-Figma-white?logo=figma&style=flat&logoColor=black&color=F24E1E)
 ![](http://img.shields.io/badge/-Blender-white?logo=blender&style=flat&logoColor=white&color=E87D0D)
 ![](http://img.shields.io/badge/-Cinema%204D-white?logo=cinema4d&style=flat&logoColor=white&color=011A6A)
 ![](http://img.shields.io/badge/-Octane-white?logo=octanerender&style=flat&logoColor=black&color=000000)
