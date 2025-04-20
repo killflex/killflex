@@ -29,7 +29,7 @@
         "position": "Video Editor"
       },
       {
-        "company": "CV. Natusi | ",
+        "company": "CV. Natusi",
         "position": "Student Intern"
       }
   ],
