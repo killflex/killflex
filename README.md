@@ -4,4 +4,4 @@ I'm a Full Stack Developer & Motion Designer. Check out my [portfolio](https://k
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,php,laravel,tailwind,nodejs,express,mysql,postgresql,mongodb,docker,aftereffects,pr,ps,blender,figma&perline=9)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=killflex&label=Profile views&color=0e75b6&style=flat" alt="killflex" /> </p>
+<img src='https://komarev.com/ghpvc/?username=killflex&label=Profile views&color=0e75b6&style=flat' alt="killflex"/>
