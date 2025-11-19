@@ -4,8 +4,8 @@ Essentially,
 
 - 🐝 Undergraduate at **UPN "Veteran" Jawa Timur** studying Computer Science
 - 👩‍💻 Full-Stack Developer specializing in **React, Next.js, Laravel, and Node.js**
-- 🌱 Interested in expanding into **Flutter Mobile Developer** and **Cybersecurity**
-- 🧠 Building solutions that balance performance, security, and user experience
+- 🌱 Interested in expanding into **Flutter Mobile Developer**
+- 🧠 Building solutions that balance performance, scalable, and user experience
 - 📫 Check out my [Portfolio][portfolio] and reach me at [LinkedIn][linkedin]
 
 Tech Stacks,
